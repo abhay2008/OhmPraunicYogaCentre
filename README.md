@@ -1,1 +1,1 @@
-# OhmPraunicYogaCentre
+# https://www.ohmpraunicyoga.com
