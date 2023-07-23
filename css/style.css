@@ -335,6 +335,12 @@ a {
   background-position: center right;
   background-repeat: no-repeat;
 }
+.yoga-template .inside-container .contact-section .schedule {
+	background-image: url('../img/schedule.jpeg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
 .yoga-template .card {
   border: none;
   background-color: rgba(35, 97, 106, 0.573);
